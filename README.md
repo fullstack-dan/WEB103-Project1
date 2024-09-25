@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 -   [✅ ] **The web app displays a title**
 -   [✅] **The web app displays at least five list items, each with at least three attributes (such as title, text, and image url)**
 -   [✅] **The user can click on each item in the list to see a detailed view of it, including all database fields**
-    -   [ ] _Note: When showing this feature in the video walkthrough, please show the unique URL for each detailed view. We will not be able to give points if we cannot see the implementation_
+    -   [✅] _Note: When showing this feature in the video walkthrough, please show the unique URL for each detailed view. We will not be able to give points if we cannot see the implementation_
 -   [✅] **The web app serves an appropriate 404 page when no matching route is defined**
 -   [✅] **The web app is appropriately styled using Picocss**
 
@@ -34,11 +34,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://cdn.discordapp.com/attachments/892911282225836102/1288625203529777245/Screen_Recording_2024-09-25_at_18.07.05.gif?ex=66f5dd3e&is=66f48bbe&hm=32988b80f285188739695e3fd5580a7ac7512728bb9388fc5076cd0ab0cbe592&' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with ... Add GIF tool here
+GIF created with MacOS Native Screen Recording
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
