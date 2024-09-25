@@ -1,8 +1,8 @@
 const booksData = [
     {
         id: 0,
-        name: "The Courage To Be Disliked",
-        author: ["Ichiro Kishimi", "Fumitake Koga"],
+        title: "The Courage To Be Disliked",
+        authors: ["Ichiro Kishimi", "Fumitake Koga"],
         audience: "Everyone",
         image: "tctbd.jpg",
         description: "A book about Adlerian psychology",
@@ -11,8 +11,8 @@ const booksData = [
     },
     {
         id: 1,
-        name: "Six of Crows",
-        author: ["Leigh Bardugo"],
+        title: "Six of Crows",
+        authors: ["Leigh Bardugo"],
         audience: "Young Adult",
         image: "soc.jpg",
         description: "A book about a heist",
@@ -21,8 +21,8 @@ const booksData = [
     },
     {
         id: 2,
-        name: "Tommorrow, and Tomorrow, and Tomorrow",
-        author: ["Gabrielle Zevin"],
+        title: "Tommorrow, and Tomorrow, and Tomorrow",
+        authors: ["Gabrielle Zevin"],
         audience: "Adult",
         image: "tatat.jpg",
         description: "A book about friendship, love, and loss",
@@ -31,8 +31,8 @@ const booksData = [
     },
     {
         id: 3,
-        name: "One of Our Kind",
-        author: ["Nicola Yoon"],
+        title: "One of Our Kind",
+        authors: ["Nicola Yoon"],
         audience: "Adult",
         image: "oook.jpg",
         description: "A book about community, false appearances, and color.",
@@ -41,8 +41,8 @@ const booksData = [
     },
     {
         id: 4,
-        name: "Dark Matter",
-        author: ["Blake Crouch"],
+        title: "Dark Matter",
+        authors: ["Blake Crouch"],
         audience: "Adult",
         image: "dm.jpg",
         description: "A book about alternate realities",

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+        <link rel="stylesheet" href="../style.css" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <script defer src="/scripts/header.js"></script>
+        <script defer src="/scripts/books.js"></script>
+        <title>Book</title>
+    </head>
+    <body>
+        <header>
+            <div class="header-content">
+                <h1 onclick="window.location.href = '/'">Library App</h1>
+                <h2>By fullstackdan</h2>
+            </div>
+        </header>
+        <main id="book-content" class="book-info">
+            <div class="image-container">
+                <img src="" alt="" id="image" />
+            </div>
+
+            <div class="book-details">
+                <h2 id="title"></h2>
+                <div id="authors"></div>
+                <p id="description"></p>
+                <p id="audience"></p>
+                <div id="tags"></div>
+            </div>
+        </main>
+    </body>
+</html>

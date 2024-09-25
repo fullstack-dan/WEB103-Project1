@@ -13,9 +13,8 @@ router.get("/", (req, res) => {
 });
 
 router.get("/:id", (req, res) => {
-    console.log("here");
     res.status(200).sendFile(
-        path.resolve(__dirname, "../../client/public/gift.html")
+        path.resolve(__dirname, "../../client/public/book.html")
     );
 });
 
