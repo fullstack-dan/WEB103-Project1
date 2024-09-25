@@ -36,6 +36,8 @@ Here's a walkthrough of implemented required features:
 
 <img src='https://cdn.discordapp.com/attachments/892911282225836102/1288625203529777245/Screen_Recording_2024-09-25_at_18.07.05.gif?ex=66f5dd3e&is=66f48bbe&hm=32988b80f285188739695e3fd5580a7ac7512728bb9388fc5076cd0ab0cbe592&' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+Also linked [here](https://cdn.discordapp.com/attachments/892911282225836102/1288625203529777245/Screen_Recording_2024-09-25_at_18.07.05.gif?ex=66f5dd3e&is=66f48bbe&hm=32988b80f285188739695e3fd5580a7ac7512728bb9388fc5076cd0ab0cbe592&)
+
 <!-- Replace this with whatever GIF tool you used! -->
 
 GIF created with MacOS Native Screen Recording
